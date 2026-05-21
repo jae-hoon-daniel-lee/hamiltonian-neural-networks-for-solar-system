@@ -1,1 +1,1 @@
-# hnn-solar-system
+# Hamiltonian Neural Networks for Solar System Dynamics
