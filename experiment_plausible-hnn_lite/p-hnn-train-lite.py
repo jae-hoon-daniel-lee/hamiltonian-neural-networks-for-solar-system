@@ -1,3 +1,9 @@
+"""
+- Author: Jae Hoon (Daniel) Lee, Ph.D.
+- Email: daniel.leejh@gmail.com
+- LinkedIn: https://www.linkedin.com/in/jae-hoon-daniel-lee-ab9136aa/
+"""
+
 import torch
 import torch.nn as nn
 import torch.optim as optim
