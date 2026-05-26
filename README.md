@@ -88,7 +88,7 @@ Key collaborator:
 
 - Jesús Martin Bautista Martinez — contributor of the 12th-order Yoshida symplectic integrator used to synthetically generate the dense dataset (dt=0.0005). Public repository: [Assia-Network/Yoshida-Symplectic-Integrator](https://github.com/Assia-Network/Yoshida-Symplectic-Integrator)
 
-Jesús's satellite implementation is available at: [Assia-Network/Separable-Latent-Linear-Hamiltonian-Neural-Network](https://github.com/Assia-Network/Separable-Latent-Linear-Hamiltonian-Neural-Network).
+Jesús's satellite contribution to this work is available at: [Assia-Network/Separable-Latent-Linear-Hamiltonian-Neural-Network](https://github.com/Assia-Network/Separable-Latent-Linear-Hamiltonian-Neural-Network).
 
 If you use this work in your research, please cite the accompanying manuscript (preprint or published DOI when available).
 
