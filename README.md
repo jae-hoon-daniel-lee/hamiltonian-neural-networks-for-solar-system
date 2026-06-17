@@ -86,7 +86,7 @@ This repository is licensed under the MIT License — see the `LICENSE` file for
 
 Key collaborator:
 
-- Jesús Martin Bautista Martinez — contributor of the 12th-order Yoshida symplectic integrator used to synthetically generate the dense dataset (dt=0.0005). Public repository: [Assia-Network/Yoshida-Symplectic-Integrator](https://github.com/Assia-Network/Yoshida-Symplectic-Integrator)
+- Jesús Martin Bautista Ramirez — contributor of the 12th-order Yoshida symplectic integrator used to synthetically generate the dense dataset (dt=0.0005). Public repository: [Assia-Network/Yoshida-Symplectic-Integrator](https://github.com/Assia-Network/Yoshida-Symplectic-Integrator)
 
 Jesús's satellite contribution to this work is available at: [Assia-Network/Separable-Latent-Linear-Hamiltonian-Neural-Network](https://github.com/Assia-Network/Separable-Latent-Linear-Hamiltonian-Neural-Network).
 
